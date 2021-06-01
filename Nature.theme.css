@@ -1,0 +1,41 @@
+/**
+ * @name Nature
+ * @description Ahhh So calming
+ * @author 𝑆ockzy#3458
+ * @version 1.0
+ */
+
+
+@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/BasicBackground/BasicBackground.css);
+
+:root {
+	--transparencycolor:			0,0,0;						
+	--transparencyalpha:			0.15;						
+	--messagetransparency:			0.5;						
+	--guildchanneltransparency:		0.15;						
+	--memberlisttransparency:		0.0;										
+	--accentcolor:					78,190,88;					
+	
+	--font:							Whitney, Helvetica Neue, Helvetica, Arial, sans-serif;		
+	--textshadow:					transparent;				
+	--settingsicons:				1;							
+	
+	--background:					url(https://images.squarespace-cdn.com/content/v1/5e81ba08f524e90512e30541/1603199397986-WAGKB6DZPBMUD7BGN1U1/ke17ZwdGBToddI8pDm48kDk1dm1oSR9gCa1mX4KqzjN7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0luj0xCD0oh5KMc0gpox0u-wQWxfQHg04OxgQwaUq2yiAcNt5Kg2tE9yEtYfM4xwaw/Kunal+Shinde?format=2500w);	
+	--backgroundposition:			center;						
+	--backgroundsize:				cover;						
+	--backgroundblur:				unset;						
+	
+	--popout:						var(--background2);			
+	--popoutposition:				var(--backgroundposition);	
+	--popoutsize:					var(--backgroundsize);		
+	--popoutblur:					var(--backgroundblur);		
+	
+	--backdrop:						rgba(0,0,0,0.85);			
+	--backdropposition:				var(--backgroundposition);	
+	--backdropsize:					var(--backgroundsize);		
+	--backdropblur:					var(--backgroundblur);		
+	
+    --background2:                  url(https://www.poolcalculator.com/wp-content/uploads/2020/05/best-pool-water-delivery.jpg);
+
+	--version1_0_5:					none;				
+}
