@@ -1,8 +1,8 @@
 /**
  * @name Nature
- * @description Ahhh So calming
+ * @description "Ahhh So calming" if only i could add sound.Update log: changed backdrop color so it would fit better.
  * @author 𝑆ockzy#3458
- * @version 1.0
+ * @version 1.2
  */
 
 
@@ -30,7 +30,7 @@
 	--popoutsize:					var(--backgroundsize);		
 	--popoutblur:					var(--backgroundblur);		
 	
-	--backdrop:						rgba(0,0,0,0.85);			
+	--backdrop:						rgba(7, 156, 44, 0.87);			
 	--backdropposition:				var(--backgroundposition);	
 	--backdropsize:					var(--backgroundsize);		
 	--backdropblur:					var(--backgroundblur);		
